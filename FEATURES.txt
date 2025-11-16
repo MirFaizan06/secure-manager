@@ -1,0 +1,222 @@
+========================================
+SECURE MANAGER PRO v2.0 - FEATURES GUIDE
+========================================
+
+WHAT'S NEW IN VERSION 2.0
+==========================
+
+🎨 MULTIPLE THEMES
+------------------
+Choose from 5 beautiful themes:
+• Dark - Classic dark mode (default)
+• Light - Clean light mode
+• Neon - Vibrant green cyberpunk style
+• Dev - Developer-friendly dark blue
+• Ocean - Calming blue theme
+
+How to change: Click the Theme dropdown in the header
+
+🔐 ENHANCED PASSWORD MANAGER
+----------------------------
+
+1. PASSWORD VISIBILITY TOGGLE
+   • Click the 👁 icon while typing to show/hide password
+   • See what you're typing in real-time
+   • Automatically hides for security
+
+2. PASSWORD STRENGTH INDICATOR
+   • Real-time strength analysis as you type
+   • Visual progress bar and color coding:
+     - Red = Weak
+     - Orange = Medium
+     - Yellow = Strong
+     - Green = Very Strong
+   • Helps you create stronger passwords
+
+3. PASSWORD GENERATOR
+   • Generate random secure passwords
+   • Customize password length (4-128 characters)
+   • Choose character types:
+     ✓ Uppercase (A-Z)
+     ✓ Lowercase (a-z)
+     ✓ Numbers (0-9)
+     ✓ Symbols (!@#$%...)
+   • One-click generation
+   • Automatically shows generated password
+
+4. CATEGORIES & ORGANIZATION
+   • Organize passwords by category (Work, Personal, Social, etc.)
+   • Filter by category
+   • View recent passwords
+   • Advanced search across name, category, and username
+
+5. EXTENDED PASSWORD INFO
+   • Add username/email for each password
+   • Add optional notes
+   • Track when password was added/modified
+   • See password strength in the list
+
+6. IMPROVED PASSWORD LIST
+   • Better visual design with icons
+   • Category tags shown
+   • Username displayed
+   • Strength and date information
+   • Enhanced show/hide/copy/edit buttons
+
+💾 BACKUP & RESTORE
+-------------------
+• ONE-CLICK BACKUP
+  - Click "💾 Backup" button in header
+  - Creates a complete backup ZIP file
+  - Includes all passwords, documents, and settings
+  - Choose where to save the backup
+
+• ONE-CLICK RESTORE
+  - Click "📥 Restore" button in header
+  - Select a backup ZIP file
+  - Restores all your data
+  - Warning before overwriting current data
+
+📄 ENHANCED DOCUMENT MANAGER
+-----------------------------
+• File size displayed for each document
+• Better visual layout
+• Improved search functionality
+• Category organization
+• Quick open and delete
+
+⚙ SETTINGS & STATISTICS
+------------------------
+• View total passwords and documents
+• Password strength distribution chart
+• About information
+• Version details
+
+🎯 USER EXPERIENCE IMPROVEMENTS
+--------------------------------
+• Larger window (1200x800) for better visibility
+• Modern icons throughout the app
+• Better button styling and colors
+• Improved layouts and spacing
+• Clearer labels and instructions
+• Color-coded action buttons:
+  - Green for Add/Create actions
+  - Red for Delete actions
+  - Purple for Generate
+  - Orange for Restore
+
+KEYBOARD SHORTCUTS
+==================
+• Tab - Navigate between fields
+• Enter - Submit forms
+• Ctrl+C - Copy (when password is selected)
+
+SECURITY FEATURES
+=================
+• Fernet encryption for passwords
+• Encrypted storage file
+• Secret key protection
+• No passwords stored in plain text
+• Secure clipboard operations
+• Automatic password hiding
+
+TIPS FOR BEST USE
+==================
+
+1. CREATE STRONG PASSWORDS
+   - Use the password generator
+   - Aim for "Very Strong" rating
+   - Mix all character types
+   - Use at least 16 characters
+
+2. ORGANIZE WITH CATEGORIES
+   - Use consistent category names
+   - Examples: Work, Personal, Banking, Social
+   - Makes searching easier
+
+3. BACKUP REGULARLY
+   - Click Backup button weekly
+   - Save backups to USB drive or cloud
+   - Keep backups in a safe location
+   - NEVER lose your secret.key!
+
+4. USE USERNAMES
+   - Add email/username for each password
+   - Makes it easier to remember which account
+   - Helps when logging in
+
+5. ADD NOTES
+   - Security questions
+   - Account recovery info
+   - Special instructions
+   - Anything else important
+
+THEME RECOMMENDATIONS
+=====================
+• Dark - Best for night use, reduces eye strain
+• Light - Best for daytime, bright environments
+• Neon - Fun, vibrant, cyberpunk aesthetic
+• Dev - Professional, coding-friendly
+• Ocean - Calm, relaxing, blue tones
+
+DOCUMENT MANAGER TIPS
+======================
+• Use clear, descriptive titles
+• Organize by category (Personal, Work, Finance, etc.)
+• Your documents are safely stored in my_documents folder
+• Original files remain unchanged
+• Search works on both title and category
+
+TROUBLESHOOTING
+===============
+
+Q: Password strength not updating?
+A: Type at least one character to trigger the analyzer
+
+Q: Theme not changing completely?
+A: Restart the app after changing theme for best results
+
+Q: Can't see my password?
+A: Click the 👁 icon to toggle visibility
+
+Q: Lost my passwords?
+A: If you have secret.key backup, restore from backup
+
+Q: Generated password too complex?
+A: Uncheck some character type options in generator
+
+SHORTCUTS & FEATURES
+====================
+• 👁 = Show/Hide password
+• 📋 = Copy to clipboard
+• ✏ = Edit password
+• 🗑 = Delete
+• 💾 = Backup data
+• 📥 = Restore data
+• 🔍 = Search
+• 🎲 = Generate password
+
+VERSION HISTORY
+===============
+v2.0 - Enhanced Edition
+  • Multiple themes
+  • Password generator
+  • Password strength indicator
+  • Backup & restore
+  • Categories and filters
+  • Enhanced UI/UX
+  • Extended password info
+
+v1.0 - Initial Release
+  • Basic password manager
+  • Document manager
+  • Encryption
+  • Dark theme
+
+NEED HELP?
+==========
+• Check README.txt for installation info
+• Check TROUBLESHOOTING.txt for common issues
+• All your data is in the installation folder
+
+Enjoy using Secure Manager Pro!
