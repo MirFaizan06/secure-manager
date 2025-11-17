@@ -1,0 +1,204 @@
+================================================================================
+                        VAULTKEEPER FREE
+                    Password & Document Manager
+
+                     Copyright (c) 2025 The NxT LvL
+                      All Rights Reserved
+================================================================================
+
+WELCOME TO VAULTKEEPER FREE!
+
+Thank you for choosing VaultKeeper Free - your personal password manager
+with basic security features.
+
+--------------------------------------------------------------------------------
+                            FEATURES INCLUDED
+--------------------------------------------------------------------------------
+
+PASSWORD MANAGER
+  ✓ Store up to 10 passwords
+  ✓ Basic encryption (Fernet)
+  ✓ Password visibility toggle
+  ✓ Search and filter passwords
+  ✓ Simple and clean interface
+
+DOCUMENT STORAGE
+  ✓ Store up to 5 documents
+  ✓ Document categorization
+  ✓ Easy file management
+  ✓ Quick access to stored files
+
+GENERAL FEATURES
+  ✓ Dark mode interface
+  ✓ User-friendly design
+  ✓ Fast and lightweight
+  ✓ No internet required
+  ✓ Portable storage
+
+--------------------------------------------------------------------------------
+                            LIMITATIONS
+--------------------------------------------------------------------------------
+
+⚠ Maximum 10 passwords
+⚠ Maximum 5 documents
+⚠ No master password protection
+⚠ No two-factor authentication
+⚠ No password generator
+⚠ No strength indicator
+⚠ No backup/restore functionality
+⚠ No premium themes
+⚠ No security question recovery
+⚠ Basic encryption only
+⚠ Community support only
+
+--------------------------------------------------------------------------------
+                        UPGRADE TO PRO
+--------------------------------------------------------------------------------
+
+Want more security and unlimited storage?
+
+VAULTKEEPER PRO INCLUDES:
+
+🔐 SECURITY FEATURES
+  ✓ Military-grade AES-256 encryption
+  ✓ Master password authentication (10+ characters)
+  ✓ Password required on every launch
+  ✓ Security question password recovery
+  ✓ Two-Factor Authentication (2FA) - Offline TOTP
+  ✓ Zero-Trust security model
+  ✓ Secure storage in Windows AppData
+
+💪 UNLIMITED FEATURES
+  ✓ Unlimited passwords
+  ✓ Unlimited documents
+  ✓ Advanced password generator
+  ✓ Password strength indicator
+  ✓ Backup & restore functionality
+  ✓ 6 premium themes
+  ✓ Categories and tags
+  ✓ Priority email support
+
+💰 PRICING
+  Only $10 for 6 months full access!
+
+🌐 GET VAULTKEEPER PRO
+  Visit: https://vault-keeper.netlify.app/
+
+  Purchase your license key and unlock all features today!
+
+--------------------------------------------------------------------------------
+                        GETTING STARTED
+--------------------------------------------------------------------------------
+
+1. FIRST TIME USE
+   - Launch VaultKeeperFree.exe
+   - The app creates encrypted storage files automatically
+   - Start adding your passwords and documents
+
+2. ADDING PASSWORDS
+   - Enter app/website name
+   - Enter your password
+   - Optionally add category
+   - Click "Add Password"
+
+3. ADDING DOCUMENTS
+   - Enter document title
+   - Enter category
+   - Click "Choose File" to select document
+   - Click "Add Document"
+
+4. VIEWING PASSWORDS
+   - All passwords are hidden by default (●●●●●●●●)
+   - Click eye icon (👁) to reveal password
+   - Click copy icon (📋) to copy to clipboard
+
+5. SEARCHING
+   - Use search box to filter passwords
+   - Search by name or category
+
+--------------------------------------------------------------------------------
+                        IMPORTANT NOTES
+--------------------------------------------------------------------------------
+
+⚠ DATA STORAGE
+   All your data is stored locally on your computer in these files:
+   - passwords.enc (encrypted passwords)
+   - documents.json (document metadata)
+   - secret.key (encryption key)
+   - my_documents/ (stored documents)
+
+⚠ BACKUP YOUR DATA
+   VaultKeeper Free does not include automatic backup.
+   Manually copy the files above to a safe location regularly!
+
+⚠ SECURITY WARNING
+   VaultKeeper Free does NOT have:
+   - Master password protection
+   - Two-factor authentication
+   - Security question recovery
+
+   Anyone with access to your computer can open the app!
+   For serious security, upgrade to VaultKeeper Pro.
+
+⚠ LOST DATA
+   If you delete secret.key, your passwords CANNOT be recovered.
+   Always keep a backup of your files!
+
+--------------------------------------------------------------------------------
+                        SYSTEM REQUIREMENTS
+--------------------------------------------------------------------------------
+
+  ✓ Windows 10 or Windows 11
+  ✓ 50 MB free disk space
+  ✓ 1 GB RAM
+  ✓ Screen resolution: 1024x768 or higher
+
+--------------------------------------------------------------------------------
+                        SUPPORT
+--------------------------------------------------------------------------------
+
+📧 EMAIL SUPPORT
+   mirfaizan8803@gmail.com
+
+   Note: Free version users receive community support.
+   For priority support, upgrade to Pro!
+
+🌐 WEBSITE
+   https://vault-keeper.netlify.app/
+
+📖 DOCUMENTATION
+   Visit our website for guides and FAQs
+
+--------------------------------------------------------------------------------
+                        LICENSE
+--------------------------------------------------------------------------------
+
+This software is proprietary and confidential.
+Copyright (c) 2025 The NxT LvL. All Rights Reserved.
+
+Unauthorized copying, distribution, or modification is prohibited.
+
+See LICENSE file for full terms and conditions.
+
+--------------------------------------------------------------------------------
+                        UPGRADE TODAY!
+--------------------------------------------------------------------------------
+
+Ready for enterprise-grade security?
+
+Visit: https://vault-keeper.netlify.app/
+
+Get VaultKeeper Pro - Only $10 for 6 months!
+
+  ✓ Military-grade encryption
+  ✓ Master password protection
+  ✓ Two-Factor Authentication
+  ✓ Unlimited storage
+  ✓ Priority support
+  ✓ And much more!
+
+================================================================================
+              Thank you for using VaultKeeper Free!
+
+              For the best security experience, upgrade to Pro.
+================================================================================

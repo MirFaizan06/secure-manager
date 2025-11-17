@@ -1,14 +1,7 @@
 {
   "permissions": {
     "allow": [
-      "Bash(del secure_manager.py secure_manager_enhanced.py build_installer.bat build_simple.bat build_enhanced.bat installer_script.iss installer_script_pro.iss secure_manager.spec 2)",
-      "Bash(nul)",
-      "Bash(if exist secure_manager.py del secure_manager.py)",
-      "Bash(if exist secure_manager_enhanced.py del secure_manager_enhanced.py)",
-      "Bash(if exist build_installer.bat del build_installer.bat)",
-      "Bash(git init:*)",
-      "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(verify_icon_integration.bat)"
     ],
     "deny": [],
     "ask": []

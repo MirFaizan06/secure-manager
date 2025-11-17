@@ -1,0 +1,495 @@
+================================================================================
+                        VAULTKEEPER PRO
+              Professional Password & Document Manager
+
+                     Copyright (c) 2025 The NxT LvL
+                      All Rights Reserved
+================================================================================
+
+WELCOME TO VAULTKEEPER PRO!
+
+Thank you for choosing VaultKeeper Pro - the professional password manager
+with military-grade encryption and enterprise security features.
+
+--------------------------------------------------------------------------------
+                      🔐 SECURITY FEATURES
+--------------------------------------------------------------------------------
+
+MILITARY-GRADE ENCRYPTION
+  ✓ AES-256 encryption via Fernet
+  ✓ Industry-standard cryptography
+  ✓ All data encrypted at rest
+  ✓ No plain-text password storage
+
+MASTER PASSWORD AUTHENTICATION
+  ✓ Required on every app launch
+  ✓ Minimum 10 characters enforced
+  ✓ PBKDF2-HMAC-SHA256 hashing
+  ✓ 100,000 hash iterations
+  ✓ Unique cryptographic salt
+  ✓ Secure storage in Windows AppData
+
+SECURITY QUESTION RECOVERY
+  ✓ 5 pre-defined security questions
+  ✓ Forgot password? Use your security answer
+  ✓ Answer hashed with PBKDF2
+  ✓ Full password reset capability
+
+TWO-FACTOR AUTHENTICATION (2FA)
+  ✓ Offline TOTP (Time-based One-Time Password)
+  ✓ No internet required after setup
+  ✓ Compatible with Google Authenticator
+  ✓ Compatible with Microsoft Authenticator
+  ✓ Compatible with Authy and others
+  ✓ QR code easy setup
+  ✓ Manual secret key backup
+  ✓ 6-digit codes refresh every 30 seconds
+  ✓ OPTIONAL - Can be skipped (but recommended!)
+
+ZERO-TRUST SECURITY MODEL
+  ✓ No "remember me" option
+  ✓ Password required every launch
+  ✓ No session persistence
+  ✓ Always verify, never trust
+
+ADVANCED SECURITY
+  ✓ Auth files hidden in Windows AppData
+  ✓ Hidden file attributes set automatically
+  ✓ User-specific secure location
+  ✓ Protected from casual access
+  ✓ No backdoor recovery (true security!)
+
+--------------------------------------------------------------------------------
+                    💪 UNLIMITED FEATURES
+--------------------------------------------------------------------------------
+
+PASSWORD MANAGEMENT
+  ✓ Unlimited password storage
+  ✓ Advanced password generator
+  ✓ Customizable generation (length, character sets)
+  ✓ Real-time strength indicator
+  ✓ Password visibility toggle
+  ✓ One-click copy to clipboard
+  ✓ Categories and tags
+  ✓ Username field
+  ✓ Notes field
+  ✓ Search and filter
+  ✓ Date tracking (added/modified)
+
+DOCUMENT STORAGE
+  ✓ Unlimited document storage
+  ✓ Any file type supported
+  ✓ Document categorization
+  ✓ File size tracking
+  ✓ Quick file opening
+  ✓ Secure encrypted storage
+
+BACKUP & RESTORE
+  ✓ One-click backup to ZIP
+  ✓ Includes all passwords & documents
+  ✓ Encrypted backup files
+  ✓ Easy restore functionality
+  ✓ Timestamped backup files
+
+PREMIUM THEMES
+  ✓ 6 premium themes included:
+    - Dark (default)
+    - Light
+    - Neon
+    - Dev
+    - Ocean
+    - Cyber
+  ✓ Switch themes anytime
+  ✓ Modern UI design
+
+--------------------------------------------------------------------------------
+                        🎨 USER EXPERIENCE
+--------------------------------------------------------------------------------
+
+INTERFACE
+  ✓ Modern customtkinter UI
+  ✓ Clean and intuitive design
+  ✓ Responsive layout
+  ✓ Tabbed interface
+  ✓ Scrollable lists
+  ✓ Visual strength indicator
+  ✓ Real-time search
+
+CONVENIENCE
+  ✓ Fast performance
+  ✓ Offline operation
+  ✓ No internet required
+  ✓ Portable data
+  ✓ Quick access to everything
+
+--------------------------------------------------------------------------------
+                    📋 GETTING STARTED
+--------------------------------------------------------------------------------
+
+STEP 1: ACTIVATION
+  1. Launch VaultKeeperPro.exe
+  2. Enter your license key and email
+  3. Click "Activate"
+  4. License validated online
+  5. Activation saved for offline use
+
+  Don't have a license key?
+  Visit: https://vault-keeper.netlify.app/
+
+STEP 2: MASTER PASSWORD SETUP (First Time Only)
+  1. After activation, setup wizard appears
+  2. Create master password (10+ characters)
+  3. Confirm your password
+  4. Choose a security question
+  5. Provide your answer
+  6. Click "Complete Setup"
+
+  ⚠ IMPORTANT: Remember your password!
+  You'll need it every time you open VaultKeeper.
+
+STEP 3: OPTIONAL 2FA SETUP (Highly Recommended!)
+  1. Open VaultKeeper Pro
+  2. Login with master password
+  3. Go to Settings tab
+  4. Click "Setup 2FA"
+  5. Scan QR code with authenticator app
+     OR
+     Manually enter secret key
+  6. Enter 6-digit code to verify
+  7. 2FA is now enabled!
+
+  Recommended authenticator apps:
+  - Google Authenticator (Free)
+  - Microsoft Authenticator (Free)
+  - Authy (Free)
+
+  Note: 2FA is OPTIONAL. You can skip the code at login,
+        but it's highly recommended for maximum security!
+
+STEP 4: START USING VAULTKEEPER PRO
+  1. Add your passwords
+  2. Store important documents
+  3. Create regular backups
+  4. Enjoy peace of mind!
+
+--------------------------------------------------------------------------------
+                      🔑 DAILY USAGE
+--------------------------------------------------------------------------------
+
+LOGGING IN
+  1. Launch VaultKeeperPro.exe
+  2. Enter your master password
+  3. (Optional) Enter 2FA code if enabled
+  4. Click "Login"
+
+  Forgot Password?
+  - Click "Forgot Password?"
+  - Answer your security question
+  - Set a new password
+
+ADDING PASSWORDS
+  1. Go to "Passwords" tab
+  2. Enter name (app/website)
+  3. Enter password (or click "Generate")
+  4. Add category (optional)
+  5. Add username (optional)
+  6. Add notes (optional)
+  7. Click "Add Password"
+
+GENERATING STRONG PASSWORDS
+  1. Set desired length (4-128 characters)
+  2. Choose character sets:
+     - A-Z (uppercase)
+     - a-z (lowercase)
+     - 0-9 (numbers)
+     - !@# (symbols)
+  3. Click "Generate"
+  4. Password automatically filled
+  5. Strength indicator updates in real-time
+
+VIEWING/COPYING PASSWORDS
+  - Click eye icon (👁) to reveal password
+  - Click copy icon (📋) to copy to clipboard
+  - Click edit icon (✏) to edit password
+
+BACKING UP YOUR VAULT
+  1. Click "Backup" button (top right)
+  2. Choose save location
+  3. ZIP file created with timestamp
+  4. Store in safe location
+
+RESTORING FROM BACKUP
+  1. Click "Restore" button
+  2. Select backup ZIP file
+  3. Confirm restoration
+  4. App reloads with restored data
+
+CHANGING MASTER PASSWORD
+  1. Go to Settings tab
+  2. Click "Change Master Password"
+  3. Enter current password
+  4. Enter new password (10+ chars)
+  5. Confirm new password
+  6. Verify with security answer
+  7. Password updated!
+
+--------------------------------------------------------------------------------
+                    🗂️ FILE LOCATIONS
+--------------------------------------------------------------------------------
+
+AUTHENTICATION FILES (Hidden in AppData)
+  Location: %APPDATA%\VaultKeeper\
+
+  Files:
+  - .vkauth (Master password & security Q/A)
+  - .vk2fa (Two-factor authentication secret)
+
+  These files are:
+  ✓ Hidden from normal view
+  ✓ User-specific (not in Program Files)
+  ✓ Encrypted and hashed
+  ✓ Protected by Windows permissions
+
+VAULT DATA FILES (Application Directory)
+  Files:
+  - passwords.enc (Encrypted password vault)
+  - secret.key (Fernet encryption key)
+  - documents.json (Document metadata)
+  - settings.json (App settings)
+  - license.key (License information)
+  - my_documents/ (Encrypted documents folder)
+
+⚠ BACKUP ALL FILES REGULARLY!
+
+--------------------------------------------------------------------------------
+                    ⚠️ IMPORTANT SECURITY NOTES
+--------------------------------------------------------------------------------
+
+MASTER PASSWORD
+  ⚠ There is NO backdoor recovery!
+  ⚠ If you forget password AND security answer, vault is UNRECOVERABLE
+  ⚠ This is by design - true security means no backdoors
+  ⚠ Use a password you can remember but others cannot guess
+  ⚠ Write it down and store in a physically secure location if needed
+
+SECURITY QUESTION
+  ⚠ Choose an answer only you would know
+  ⚠ Don't use publicly available information
+  ⚠ Remember your exact answer (spelling matters)
+  ⚠ This is your only password recovery method
+
+TWO-FACTOR AUTHENTICATION
+  ⚠ Save your 2FA secret key in a secure location
+  ⚠ If you lose your phone, you'll need the secret key
+  ⚠ 2FA is OPTIONAL - you can skip the code at login
+  ⚠ But 2FA is HIGHLY RECOMMENDED for maximum security
+
+BACKUP REGULARLY
+  ⚠ Use the built-in backup feature
+  ⚠ Store backups in multiple secure locations
+  ⚠ Test restore process periodically
+  ⚠ Backups include all passwords and documents
+
+SYSTEM SECURITY
+  ⚠ VaultKeeper is only as secure as your computer
+  ⚠ Use Windows password/PIN
+  ⚠ Enable BitLocker full-disk encryption
+  ⚠ Keep Windows updated
+  ⚠ Use antivirus software
+  ⚠ Lock computer when away
+  ⚠ Don't use on public/untrusted computers
+
+ENCRYPTION KEY
+  ⚠ Do NOT delete secret.key file
+  ⚠ If lost, all passwords are UNRECOVERABLE
+  ⚠ Include in backups
+  ⚠ Keep secure
+
+--------------------------------------------------------------------------------
+                    🔒 SECURITY SPECIFICATIONS
+--------------------------------------------------------------------------------
+
+ENCRYPTION
+  Algorithm: Fernet (AES-256-CBC + HMAC-SHA256)
+  Key Size: 256-bit
+  Mode: CBC (Cipher Block Chaining)
+  Authentication: HMAC-SHA256
+
+PASSWORD HASHING
+  Algorithm: PBKDF2-HMAC-SHA256
+  Iterations: 100,000
+  Salt: 64 hex characters (32 bytes, unique per install)
+  Output: 64 hex characters (32 bytes)
+
+TWO-FACTOR AUTHENTICATION
+  Standard: TOTP (RFC 6238)
+  Algorithm: HMAC-SHA1
+  Time Step: 30 seconds
+  Code Length: 6 digits
+  Window: ±1 step (tolerance for clock drift)
+
+DATA STORAGE
+  Auth Files: %APPDATA%\VaultKeeper\ (hidden)
+  Vault Files: Application directory
+  All Passwords: Encrypted with AES-256
+  All Hashes: Salted with unique salt
+  No Plain-Text: Ever stored
+
+--------------------------------------------------------------------------------
+                    💼 SYSTEM REQUIREMENTS
+--------------------------------------------------------------------------------
+
+OPERATING SYSTEM
+  ✓ Windows 10 (64-bit)
+  ✓ Windows 11
+
+HARDWARE
+  ✓ 100 MB free disk space
+  ✓ 2 GB RAM
+  ✓ Screen resolution: 1024x768 or higher
+
+SOFTWARE
+  ✓ No additional software required
+  ✓ All dependencies included
+
+INTERNET
+  ✓ Required for license activation (one-time)
+  ✓ Required for license validation (periodic)
+  ✓ NOT required for daily use
+  ✓ Offline mode supported
+
+--------------------------------------------------------------------------------
+                        📞 SUPPORT
+--------------------------------------------------------------------------------
+
+PRIORITY EMAIL SUPPORT
+  📧 mirfaizan8803@gmail.com
+
+  As a Pro user, you receive priority support!
+  We respond to Pro users first.
+
+  Support includes:
+  ✓ Technical assistance
+  ✓ Feature questions
+  ✓ Bug reports
+  ✓ License issues
+  ✓ Setup help
+
+  Response time: Within 24-48 hours
+
+WEBSITE
+  🌐 https://vault-keeper.netlify.app/
+
+  Visit for:
+  ✓ License purchase
+  ✓ Documentation
+  ✓ FAQs
+  ✓ Updates
+  ✓ News
+
+DOCUMENTATION
+  📖 SECURITY_FEATURES.md (included with installer)
+
+  Complete security guide including:
+  ✓ Security feature details
+  ✓ Best practices
+  ✓ Attack resistance
+  ✓ Technical specifications
+
+--------------------------------------------------------------------------------
+                        📜 LICENSE
+--------------------------------------------------------------------------------
+
+LICENSE TYPE
+  VaultKeeper Pro - 6 Month License
+
+WHAT'S INCLUDED
+  ✓ 6 months full access to all Pro features
+  ✓ All security features
+  ✓ Unlimited storage
+  ✓ Priority support
+  ✓ Free updates during license period
+
+LICENSE VALIDATION
+  ✓ Online activation required (one-time)
+  ✓ Periodic online validation
+  ✓ Offline grace period supported
+
+RENEWAL
+  ✓ Purchase new license key before expiration
+  ✓ Seamless renewal process
+  ✓ All data preserved
+
+TERMS
+  This software is proprietary and confidential.
+  Copyright (c) 2025 The NxT LvL. All Rights Reserved.
+
+  Unauthorized copying, distribution, or modification is prohibited.
+  See LICENSE file for full terms and conditions.
+
+--------------------------------------------------------------------------------
+                    🎯 PRO TIPS
+--------------------------------------------------------------------------------
+
+1. ENABLE 2FA
+   While optional, 2FA adds an extra layer of security.
+   It's FREE to use with any authenticator app!
+
+2. USE STRONG MASTER PASSWORD
+   Your master password is the key to everything.
+   Use 12-16+ characters with mixed character types.
+
+3. BACKUP REGULARLY
+   Create weekly backups and store in multiple locations.
+   Test your backups by restoring occasionally.
+
+4. GENERATE STRONG PASSWORDS
+   Use the built-in generator for all new passwords.
+   Aim for 16+ characters with all character types.
+
+5. ORGANIZE WITH CATEGORIES
+   Use categories like "Work", "Personal", "Banking", etc.
+   Makes searching and managing passwords easier.
+
+6. STORE IMPORTANT DOCUMENTS
+   Use document storage for:
+   - License keys
+   - Recovery codes
+   - Important PDFs
+   - Secure notes
+
+7. LOCK YOUR COMPUTER
+   Always lock (Win+L) when stepping away.
+   VaultKeeper requires password on every launch, but
+   locking adds another layer of protection.
+
+8. KEEP LICENSE KEY SAFE
+   Store your license key email safely.
+   You'll need it for renewal or reinstallation.
+
+--------------------------------------------------------------------------------
+                    ✨ THANK YOU!
+--------------------------------------------------------------------------------
+
+Thank you for choosing VaultKeeper Pro!
+
+You now have enterprise-grade security protecting your most sensitive data.
+
+With military-grade encryption, master password authentication, two-factor
+authentication, and zero-trust architecture, your passwords have never been
+more secure.
+
+We're committed to protecting your digital life.
+
+Stay secure!
+
+- The NxT LvL Team
+
+================================================================================
+                      VAULTKEEPER PRO v2.0
+
+              Your passwords. Your documents. Your security.
+              Protected by military-grade encryption.
+
+              https://vault-keeper.netlify.app/
+================================================================================
